@@ -1,0 +1,8 @@
+((("INFORMATION_ROBOT_VERSION_TITLE" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("INFORMATION_DIO_VERSION_TITLE" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("INFORMATION_RED_VERSION_TITLE" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("auto-save-list/" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])))
