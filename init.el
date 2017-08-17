@@ -332,7 +332,7 @@
 ;; 環境に合わせた日本語文字コードに設定
 ;;  Windows => SJIS
 ;;  Linux => 環境変数 LANG から
-(require `mozc)
+;;(require `mozc)
 (set-language-environment "Japanese")
 (prefer-coding-system `utf-8)
 ;; set-language-environment でうまくいかない場合に設定
