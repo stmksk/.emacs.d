@@ -460,5 +460,3 @@
 ;; カラム番号も表示する
 (column-number-mode t)
 
-(require 'git-gutter+)
-(global-git-gutter+-mode t)
